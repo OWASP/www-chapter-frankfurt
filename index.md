@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Frankfurt
 tags: example-tag
 region: Europe
-meetup-group:
+meetup-group: owasp-frankfurt
 
 ---
 

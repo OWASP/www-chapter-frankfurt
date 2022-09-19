@@ -2,6 +2,6 @@
 * Provide Group Information
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/)
 
 

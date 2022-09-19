@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Daniel Gora](mailto:danielgora@owasp.org)
+* [Jonas Becker](mailto:jonas.becker@owasp.org)

@@ -1,4 +1,10 @@
 /Gemfile
 /Gemfile.lock
 /favicon.ico
+Gemfile.lock
+__pycache__
+env
+.vscode/
+*.DS_Store
+.idea/
 _site/

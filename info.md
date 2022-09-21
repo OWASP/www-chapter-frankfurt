@@ -1,15 +1,20 @@
-### Navigation ([🔙](/www-chapter-germany/stammtische/#lokale-stammtische))
+### General Information
+* [Become a Member](https://www.owasp.org/index.php/Membership)
+* [Join OWASP Germany Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/germany-chapter)
+* [Local Chapter Support](https://owasp.org/donate)
+* [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+* [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
-* back to [Lokale Stammtische](/www-chapter-germany/stammtische/#lokale-stammtische)
-* [Stammtisch FAQ](/www-chapter-germany/stammtische/#stammtisch-faq)
+### Social Links
+* [Twitter](https://twitter.com/owaspfrankfurt)
+* [Meetup.com](https://www.meetup.com/OWASP-Frankfurt/)
+* [YouTube](https://www.youtube.com/channel/UCcSCpYuuGeEIn70KQCF-4gQ)
 
-### Meetup and Social Media
-* [OWASP Frankfurt Stammtisch Meetup](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/)
-* [Twitter](https://twitter.com/owasp_frankfurt)
-* [Slack - OWASP](https://owasp.slack.com)
-* [Slack - OWASP Stammtisch FFM Slack Channel](https://join.slack.com/share/zt-kioa9og3-BY5VPOQrSmrhvivTstRqWA)
+### Code Repository
+* [Page Repo](https://github.com/OWASP/www-chapter-frankfurt)
+* [Slides Repo](https://github.com/OWASP/www-chapter-frankfurt/tree/master/assets/slides)
+* [Legacy Website](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Frankfurt)
 
 ### Further Frankfurt Stammtisch Information
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
-* [Welcome to OWASP](https://docs.google.com/presentation/d/1RmffoNABrybyZ1euCKPyqqqGy09pil4aMhqLuU3sQgc/edit#slide=id.g7ee8866183_0_181)

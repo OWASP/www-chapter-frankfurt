@@ -14,7 +14,3 @@
 * [Page Repo](https://github.com/OWASP/www-chapter-frankfurt)
 * [Slides Repo](https://github.com/OWASP/www-chapter-frankfurt/tree/master/assets/slides)
 * [Legacy Website](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Frankfurt)
-
-### Further Frankfurt Stammtisch Information
-* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
-* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)

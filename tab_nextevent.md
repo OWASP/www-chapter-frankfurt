@@ -14,7 +14,7 @@ We are looking for upcoming venues to host our OWASP Frankfurt Chapter, preferab
 (🔧 TODO)
 
 ## Next Meeting/Event(s)
-Please follow OWASP London on [Twitter](https://twitter.com/owasp_frankfurt)/[Meetup](https://www.meetup.com/OWASP-Frankfurt/) or join the OWASP Germany [Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/germany-chapter) to be notified as soon as the next event date & location is announced!
+Please follow OWASP Frankfurt on [Twitter](https://twitter.com/owasp_frankfurt)/[Meetup](https://www.meetup.com/OWASP-Frankfurt/) or join the OWASP Germany [Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/germany-chapter) to be notified as soon as the next event date & location is announced!
 
 ---
 OWASP Frankfurt Chapter upcoming events can be found on Meetup:

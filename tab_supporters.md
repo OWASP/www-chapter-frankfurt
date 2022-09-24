@@ -3,7 +3,7 @@ title: Supporters
 displaytext: Supporters
 layout:  null
 tab: true
-order: 2
+order: 3
 tags: frankfurt
 ---
 The [OWASP Donations Policy](https://owasp.org/www-policy/operational/donations) states that we as the OWASP Foundation are very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters.

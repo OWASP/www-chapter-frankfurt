@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Frankfurt Chapter
+title: OWASP Frankfurt
 tags: frankfurt
 level: 3
 region: Europe

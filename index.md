@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Frankfurt Chapter
+title: OWASP Frankfurt
 tags: frankfurt
 level: 3
 region: Europe
@@ -11,8 +11,6 @@ country: Germany
 postal-code: 60325
 
 ---
-
-![OWASP Frankfurt Chapter Logo](assets/OWASP_Frankfurt_Logo.png)
 
 ## Introduction
 

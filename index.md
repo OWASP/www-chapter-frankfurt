@@ -12,8 +12,6 @@ postal-code: 60325
 
 ---
 
-![OWASP Frankfurt Chapter Logo](assets/OWASP_Frankfurt_Logo.png)
-
 ## Introduction
 
 Welcome to OWASP Frankfurt Chapter, a regional city chapter within [OWASP Germany](https://owasp.org/www-chapter-germany/). Our Chapter serves central Germany particular within the Rhine-Main (Hesse) region as a platform to discuss and share topics all around information and application security.

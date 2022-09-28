@@ -10,9 +10,8 @@ level: 1
 ---
 
 ## Next Events
-OWASP Frankfurt Chapter upcoming events can be found on Meetup:
+OWASP Frankfurt Chapter upcoming events can be found on Meetup: [OWASP Frankfurt Chapter Meetup](https://www.meetup.com/OWASP-Frankfurt/)
 
-[https://www.meetup.com/OWASP-Frankfurt/](https://www.meetup.com/OWASP-Frankfurt/)<br>
 {% include chapter_events.html group=page.meetup-group %}
 
 <script type='text/javascript'>

@@ -16,16 +16,34 @@ An overview of our past Frankfurt Chapter & Stammtisch events from 2011 to 2022.
 
 
 ## 2022
-### **54. [OWASP Chapter Frankfurt Meetup](https://www.meetup.com/OWASP-Frankfurt/events/282029020/) (Virtual) | 25.05.2022, 18:00h CET**
+
+### **57. [OWASP Frankfurt ](https://www.meetup.com/owasp-frankfurt/events/286616807/) (Virtual) | 26.10.2022, 18:00h CET**
+* Keynote: **Gregor Reimling - Azure Cloud Security Best Practices** [SLIDES](assets/slides/57_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Talk: **Christian Klünter - How to DevSecOps in the context of public sector and small to medium sized enterprises** [SLIDES](assets/slides/57_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Location: In-Person - CHECK24 Frankfurt, Speicherstraße 55
+
+### **56. [OWASP Frankfurt #56 & Kassel Security 0x4C Collective Event](https://www.meetup.com/owasp-frankfurt/events/286616807/) (Virtual) | 24.08.2022, 18:00h CET**
+* Keynote: **Niklas Düster - Operationalizing Software Bill of Materials (SBOM) with CycloneDX and Dependency-Track** [SLIDES](assets/slides/56_OWASP_Frankfurt_Stammtisch_3.pdf)
+* Talk: **Prof. Nick Nikiforakis & Brian Kondracki - Catching Transparent Phish: Understanding and Detecting MITM Phishing Kits** [SLIDES](assets/slides/56_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Talk: **Dagmawi Mulugeta - Abusing cloud apps 101: Command and Control** [SLIDES](assets/slides/56_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Location: Virtual - OWASP Zoom
+
+### **55. [OWASP Frankfurt Chapter Meetup](https://www.meetup.com/owasp-frankfurt/events/286925136/) (In-Person) | 25.06.2022, 18:00h CET**
+* Keynote: **Dan Gora Can't you keep a secret?! Learn Secrets Management with OWASP WrongSecrets** [KEYNOTE SLIDES](assets/slides/55_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Talk: **Nicole Rother - The Forensic Hunt for Malware Campaigns of Cyber Criminalss**
+* Talk: **Jonas Becker - A pragmatic approach to threat modeling** [SLIDES](assets/slides/55_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Location: BEEHIVE Frankfurt City, Mainzer Landstraße 33a
+
+### **54. [OWASP Frankfurt Chapter Meetup](https://www.meetup.com/OWASP-Frankfurt/events/282029020/) (Virtual) | 25.05.2022, 18:00h CET**
 * Keynote: **Thomas Naunheim - Defending Azure Active Directory** [KEYNOTE SLIDES](assets/slides/54_OWASP_Frankfurt_Stammtisch.pdf)
 * Talk: **Matthias Altmann - Introduction to CSRF attacks**
 * Location: Virtual - OWASP Zoom
 
-### **53. [OWASP Chapter Frankfurt Meetup](https://www.meetup.com/OWASP-Frankfurt/events/282029020/) (Virtual) | 27.04.2022, 18:00h CET**
+### **53. [OWASP Frankfurt Chapter Meetup](https://www.meetup.com/OWASP-Frankfurt/events/282029020/) (Virtual) | 27.04.2022, 18:00h CET**
 * Talk: **Johannes Schönborn - OWASP Introduction and OWASP projects overview**
 * Talk: **Kevin Ott - Advanced Offensive Security**
 * Talk: **Mihael Stanojevic - Security Culture**
-* Location: BEEHIVE Frankfurt City, Mainzer Landstraße 33a · Frankfurt am Main, HE
+* Location: BEEHIVE Frankfurt City, Mainzer Landstraße 33a
 
 ## 2021
 ### **52. [OWASP Stammtisch Frankfurt](https://www.meetup.com/OWASP-Frankfurt/events/282029020/) (Virtual) | 24.11.2021, 19:00h CET**

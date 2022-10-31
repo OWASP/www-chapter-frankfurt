@@ -17,7 +17,7 @@ An overview of our past Frankfurt Chapter & Stammtisch events from 2011 to 2022.
 
 ## 2022
 
-### **57. [OWASP Frankfurt ](https://www.meetup.com/owasp-frankfurt/events/286616807/) (Virtual) | 26.10.2022, 18:00h CET**
+### **57. [OWASP Frankfurt ](https://www.meetup.com/owasp-frankfurt/events/288005672/) (Virtual) | 26.10.2022, 18:00h CET**
 * Keynote: **Gregor Reimling - Azure Cloud Security Best Practices** [SLIDES](assets/slides/57_OWASP_Frankfurt_Stammtisch_1.pdf)
 * Talk: **Christian Klünter - How to DevSecOps in the context of public sector and small to medium sized enterprises** [SLIDES](assets/slides/57_OWASP_Frankfurt_Stammtisch_2.pdf)
 * Location: In-Person - CHECK24 Frankfurt, Speicherstraße 55
@@ -29,8 +29,8 @@ An overview of our past Frankfurt Chapter & Stammtisch events from 2011 to 2022.
 * Location: Virtual - OWASP Zoom
 
 ### **55. [OWASP Frankfurt Chapter Meetup](https://www.meetup.com/owasp-frankfurt/events/286925136/) (In-Person) | 25.06.2022, 18:00h CET**
-* Keynote: **Dan Gora Can't you keep a secret?! Learn Secrets Management with OWASP WrongSecrets** [KEYNOTE SLIDES](assets/slides/55_OWASP_Frankfurt_Stammtisch_1.pdf)
-* Talk: **Nicole Rother - The Forensic Hunt for Malware Campaigns of Cyber Criminalss**
+* Keynote: **Dan Gora - Secrets Management with OWASP WrongSecrets** [KEYNOTE SLIDES](assets/slides/55_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Talk: **Nicole Rother - The Forensic Hunt for Malware Campaigns of Cyber Criminals**
 * Talk: **Jonas Becker - A pragmatic approach to threat modeling** [SLIDES](assets/slides/55_OWASP_Frankfurt_Stammtisch_2.pdf)
 * Location: BEEHIVE Frankfurt City, Mainzer Landstraße 33a
 

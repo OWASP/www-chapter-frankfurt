@@ -12,12 +12,18 @@ level: 2
 
 ## Previous Events
 
-An overview of our past Frankfurt Chapter & Stammtisch events from 2011 to 2022.
+An overview of our past Frankfurt Chapter & Stammtisch events from 2011 to 2023.
 
 
 ## 2022
 
-### **57. [OWASP Frankfurt ](https://www.meetup.com/owasp-frankfurt/events/288005672/) (Virtual) | 26.10.2022, 18:00h CET**
+### **58. [OWASP Frankfurt Chapter Meetup](https://www.meetup.com/owasp-frankfurt/events/289238258/) (In-Person) | 30.11.2022, 18:00h CET**
+* Keynote: **Thomas Schmidt - Vulnerability Management with CSAF** 
+* Talk: **Thomas Krabs - Why Security Keep Failing - A battle story** [SLIDES](assets/slides/58_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Talk: **Julian Wiegmann - Multi-Cloud Identity & Access Management** 
+* Location: In-Person - Deutsche Börse, Börsenplatz 4 
+
+### **57. [OWASP Frankfurt Chapter Meetup](https://www.meetup.com/owasp-frankfurt/events/288005672/) (In-Person) | 26.10.2022, 18:00h CET**
 * Keynote: **Gregor Reimling - Azure Cloud Security Best Practices** [SLIDES](assets/slides/57_OWASP_Frankfurt_Stammtisch_1.pdf)
 * Talk: **Christian Klünter - How to DevSecOps in the context of public sector and small to medium sized enterprises** [SLIDES](assets/slides/57_OWASP_Frankfurt_Stammtisch_2.pdf)
 * Location: In-Person - CHECK24 Frankfurt, Speicherstraße 55
@@ -74,9 +80,9 @@ An overview of our past Frankfurt Chapter & Stammtisch events from 2011 to 2022.
 * Location: Virtual - OWASP Zoom
 
 ### **48. OWASP Stammtisch Frankfurt (Virtual) | 28.04.2021, 18:00h CET**
-* Keynote: **Timo Pagel - Overview of OWASP (DevSecOps) project** | [KEYNOTE SLIDES](assets/slides/48_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Keynote: **Timo Pagel - Overview of OWASP (DevSecOps) project** [KEYNOTE SLIDES](assets/slides/48_OWASP_Frankfurt_Stammtisch_1.pdf)
 * Workshop: **Daniel Gora - Hands-On Introduction to OWASP Juice Shop**
-* Lightning Talk: **Mihael Stanojevic - Physical Red Teaming** | [LIGHNTING TALK SLIDES](assets/slides/48_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Lightning Talk: **Mihael Stanojevic - Physical Red Teaming** [LIGHNTING TALK SLIDES](assets/slides/48_OWASP_Frankfurt_Stammtisch_2.pdf)
 * Recording: [YOUTUBE](https://youtu.be/8webiYnF56A)
 * Location: Virtual - OWASP Zoom
 

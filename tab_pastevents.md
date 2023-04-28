@@ -12,9 +12,14 @@ level: 2
 
 ## Previous Events
 
-An overview of our past Frankfurt Chapter & Stammtisch events from 2011 to 2022.
+An overview of our past Frankfurt Chapter & Stammtisch events from 2011 to 2023.
 
 ## 2023
+
+### **60. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/291521942/) | 26.04.2023, 18:00h CET**
+* Talk: **Diana Waithanji  - AI-Enhanced Application Security: A Modern Approach** [SLIDES](assets/slides/60_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Talk: **Jiska Classen - Beyond the Checkbox: Breaking out of Testing Frameworks** [SLIDES](assets/slides/60_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Location: In-Person - CHECK24 Frankfurt, Speicherstraße 55
 
 ### **59. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/290496214/) | 22.02.2023, 18:00h CET**
 * Keynote: **Dr. Steffen Schilke - IT Grundschutz and SBOM Implementation in Multi-Country eGov/eJustice Projects** [SLIDES](assets/slides/59_OWASP_Frankfurt_Stammtisch_1.pdf)

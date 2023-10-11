@@ -14,21 +14,14 @@ The [OWASP Donations Policy](https://owasp.org/www-policy/operational/donations)
 
 ## How to become a Sponsor?
 
-OWASP is a non-profit association (in Europe, based in Belgium) that has
-has set up many projects, documents and tools and thus
-follows the mission "web security". Almost all of these visible
-results are based on a lot of volunteer work.
+OWASP is a non-profit association (in Europe, based in Belgium) that has has set up many projects, documents and tools and thus follows the mission "web security". Almost all of these visible results are based on a lot of volunteer work.
 
-However, an association like OWASP also has expenses in order to promote projects, documents
-and tools and to keep them up to date.
-Our infrastructure like servers, accounting and our administration
-also need to be paid for.
+However, an association like OWASP also has expenses in order to promote projects, documents and tools and to keep them up to date. Our infrastructure like servers, accounting and our administration also need to be paid for.
 
-OWASP finances the projects and its organization through sponsorships
-as well as entrance fees from events. A sponsor supports the
-work of OWASP sustainably.
+OWASP finances the projects and its organization through sponsorships as well as entrance fees from events. A sponsor supports the work of OWASP sustainably.
 
 You have two options - both of which you can use in parallel - to support OWASP:
+
 * Become a [OWASP "Corporate Supporter"](https://owasp.org/supporters/)
 * Become a [OWASP German Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-germany&title=OWASP+Germany)
 

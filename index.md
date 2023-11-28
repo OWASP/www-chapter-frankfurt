@@ -47,5 +47,7 @@ We do run a mix of in-person and virtual meetups. All our upcoming events are an
 
 **We are looking for presentations for the next OWASP Frankfurt Chapter Events!** If you'd like to give a presentation, conduct a training workshop or volunteer for us, contact us the OWASP Frankfurt Chapter organisation .
 
+You can easily submit a CFP via Papercall.io: https://www.papercall.io/owasp-chapter-frankfurt
+
 ### Etiquette
 Please note that vendor pitches are not allowed, so please adhere to the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and avoid marketing stunts. Also please ensure to remove your company logos from all but one "marketing" slide.

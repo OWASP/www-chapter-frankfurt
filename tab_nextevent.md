@@ -42,4 +42,4 @@ Please follow OWASP Frankfurt on [Twitter](https://twitter.com/owasp_frankfurt)/
 We are looking for upcoming venues to host our OWASP Frankfurt Chapter, preferably in a central location in Frankfurt City which can host around 40-70 attendees.
 
 ## Call for Speakers
-(🔧 TODO)
+**We are always looking for presentations for the OWASP Frankfurt Chapter Events!** If you'd like to give a presentation, conduct a training workshop or volunteer for us, contact us the OWASP Frankfurt Chapter organisation. Or easily submit a CFP via Papercall.io: https://www.papercall.io/owasp-chapter-frankfurt

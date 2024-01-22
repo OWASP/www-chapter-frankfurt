@@ -16,6 +16,11 @@ An overview of our past Frankfurt Chapter & Stammtisch events starting in 2011 -
 
 ## 2023
 
+### **63. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/296455863/) | 29.11.2023, 18:00h CET**
+* Talk: **Javan Rasokat - The Dark Side Of Large Language Models: Uncovering And Overcoming Of Code Vulnerabilities** [SLIDES](assets/slides/63_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Talk: **Niklas Bunzel, Raphael Antonius Frick - Seeing is Not Always Believing: The Rise, Detection, and Evasion of Deepfakes** [SLIDES](assets/slides/63_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Location: In-Person - CHECK24 Frankfurt, Speicherstraße 55
+
 ### **62. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/295190157/) | 21.09.2023, 17:30h CET**
 * Talk: **Jasmin Mair - My CI/CD pipeline contains all security tools available! Now what...?** [SLIDES](assets/slides/62_OWASP_Frankfurt_Stammtisch_1.pdf)
 * Talk: **Nicolas Schickert & Tobias Hamann - SAP from an Attacker’s Perspective – Common Vulnerabilities and Pitfalls** [SLIDES](assets/slides/62_OWASP_Frankfurt_Stammtisch_2.pdf)

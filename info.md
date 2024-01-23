@@ -7,7 +7,6 @@
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
 ### Social Links
-* [Twitter](https://twitter.com/owaspfrankfurt)
 * [Meetup.com](https://www.meetup.com/OWASP-Frankfurt/)
 * [YouTube](https://www.youtube.com/channel/UCcSCpYuuGeEIn70KQCF-4gQ)
 

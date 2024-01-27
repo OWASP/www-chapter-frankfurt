@@ -29,7 +29,7 @@ To be announced via our [OWASP Frankfurt Chapter Meetup Group](https://www.meetu
 We usually have a key note and 1-2 (lightning) talks that related to information and application security.
 
 ## Further Notes
-Please join our [OWASP Frankfurt Chapter Meetup Group](https://www.meetup.com/OWASP-Frankfurt) and follow us on [Twitter](https://twitter.com/owasp_frankfurt) for timely updates on our OWASP Chapter Frankfurt Meetup.
+Please join our [OWASP Frankfurt Chapter Meetup Group](https://www.meetup.com/OWASP-Frankfurt) for timely updates on our OWASP Chapter Frankfurt Meetup.
 
 Anyone with an interest in our topics is welcome. All meetings are free and open. You do not have to be an OWASP member to attend. Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
 
@@ -39,13 +39,13 @@ Anyone with an interest in our topics is welcome. All meetings are free and open
 We will be running a Chapter Meetup every 2-3 months with the option to have additional events such as hands-on workshops. 
 
 ### Where?
-We do run a mix of in-person and virtual meetups. All our upcoming events are announced on Meetup: [Meetup](http://www.meetup.com/OWASP-Frankfurt) and [Twitter](https://twitter.com/owasp_frankfurt). 
+We do run a mix of in-person and virtual meetups. All our upcoming events are announced on Meetup: [Meetup](http://www.meetup.com/OWASP-Frankfurt). 
 
 ## Organization
 
 ### Call for Speakers and Volunteers
 
-**We are looking for presentations for the next OWASP Frankfurt Chapter Events!** If you'd like to give a presentation, conduct a training workshop or volunteer for us, contact us the OWASP Frankfurt Chapter organisation .
+**We are looking for presentations for the next OWASP Frankfurt Chapter Events!** If you'd like to give a presentation, conduct a training workshop or volunteer for us, contact us the OWASP Frankfurt Chapter organisation.
 
 You can easily submit a CFP via Papercall.io: https://www.papercall.io/owasp-chapter-frankfurt
 

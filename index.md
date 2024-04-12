@@ -14,40 +14,53 @@ postal-code: 60325
 
 ## Introduction
 
-Welcome to OWASP Frankfurt Chapter, a regional city chapter within [OWASP Germany](https://owasp.org/www-chapter-germany/). Our Chapter serves central Germany particular within the Rhine-Main (Hesse) region as a platform to discuss and share topics all around information and application security.
+Welcome to the OWASP Frankfurt Chapter, your regional city chapter within [OWASP Germany](https://owasp.org/www-chapter-germany/). Located in the heart of Germany's financial hub, our chapter serves as a nexus for security professionals, AppSec enthusiasts, and experts alike. Our growing community fosters **knowledge sharing**, **professional networking** and **discussions** in the ever-evolving landscape of cybersecurity.
 
-Anyone with an interested and enthusiastic about application security is welcome. All meetings are free and open. You do not have to be an OWASP member.
+Whether you're a seasoned cybersecurity practitioner, a developer, a consultant, or someone simply curious about software and application security, OWASP Frankfurt Chapter offers a platform for learning and networking. Through a variety of events and initiatives, we strive to create an inclusive environment where everyone can contribute, learn, and grow.
 
-Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
+## Events 
 
-## Upcoming Events 
+We are running **regular Chapter meetings every 2-3 months**, mostly **in-person** at different venues in **Frankfurt am Main**. 
 
-Check out our [Upcoming Events](https://owasp.org/www-chapter-frankfurt#div-nextevent)
+All individuals with an interest and enthusiasm for application security are warmly welcome. Our meetings are **free and open to all**, regardless of OWASP membership status. All our resources are accessible under free and open software licenses.
 
-## What's going to happen?
-To be announced via our [OWASP Frankfurt Chapter Meetup Group](https://www.meetup.com/OWASP-Frankfurt).
-We usually have a key note and 1-2 (lightning) talks that related to information and application security.
+Feel free to refer colleagues or acquaintances to our website or individual meetings. We encourage sharing our resources to expand awareness and engagement within the community.
 
-## Further Notes
-Please join our [OWASP Frankfurt Chapter Meetup Group](https://www.meetup.com/OWASP-Frankfurt) for timely updates on our OWASP Chapter Frankfurt Meetup.
+### Upcoming events
 
-Anyone with an interest in our topics is welcome. All meetings are free and open. You do not have to be an OWASP member to attend. Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
+All our events are announced through our [OWASP Frankfurt Chapter Meetup Group](https://www.meetup.com/OWASP-Frankfurt). Stay informed about upcoming chapter events by joining our **Meetup group** or checking out the [Upcoming Events](https://owasp.org/www-chapter-frankfurt#div-nextevent) page.
 
-## Information about Frankfurt Chapter Events
 
-### When?
-We will be running a Chapter Meetup every 2-3 months with the option to have additional events such as hands-on workshops. 
+### Agenda
 
-### Where?
-We do run a mix of in-person and virtual meetups. All our upcoming events are announced on Meetup: [Meetup](http://www.meetup.com/OWASP-Frankfurt). 
+Join us for food, drinks, and to socialize and understand what OWASP is all about. You'll receive **updates on the latest OWASP news**, including updates on flagship projects, upcoming events, and conferences. 
 
-## Organization
+Typically, we feature **2-3 guest speakers** covering a range of topics including information security, cloud security, AI/ML security, and overall software security. 
+Companies hosting our meetups have the opportunity to introduce themselves to the audience.
+Before and after the presentations, attendees have ample opportunities to **network and engage in discussions**.
 
-### Call for Speakers and Volunteers
+### Past events
 
-**We are looking for presentations for the next OWASP Frankfurt Chapter Events!** If you'd like to give a presentation, conduct a training workshop or volunteer for us, contact us the OWASP Frankfurt Chapter organisation.
+You can access slides from past presentations at our chapter meetings and Stammtisch events at [Past Events](https://owasp.org/www-chapter-frankfurt/#div-pastevents). Additionally, recordings of virtual meetups are available on the same page for viewing.
 
-You can easily submit a CFP via Papercall.io: https://www.papercall.io/owasp-chapter-frankfurt
+### Interested in speaking at our events?
 
-### Etiquette
-Please note that vendor pitches are not allowed, so please adhere to the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and avoid marketing stunts. Also please ensure to remove your company logos from all but one "marketing" slide.
+We welcome speakers of all levels! You don't need to be a talk pro or seasoned professional to present at one of our events. However, we do request that your talk be relevant to a software security domain and offer value to attendees. To become a speaker, please review the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and then reach out to our chapter leads with details of your presentation. You can also easily submit your proposed talk directly via [Papercall.io](https://www.papercall.io/owasp-chapter-frankfurt).
+
+> Please note that vendor pitches are not allowed, so please adhere to the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and avoid marketing stunts. Also please ensure to remove your company logos from all but one "marketing" slide.
+
+## Frankfurt Chapter
+
+The OWASP Stammtisch Frankfurt was formed in 2011 by Johannes Schönborn. More than 50 speakers have sinces presented at the in-person or virtual events.
+In 2022 the Stammtisch became an official OWASP Chapter. 
+
+
+### Get involved 
+
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
+
+Chapters are led by local leaders in accordance with the [Chapters Policy](https://owasp.org/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button.
+
+Everyone is welcome and encouraged to participate in our [Projects(https://owasp.org/projects/)], [Local Chapters](https://owasp.org/chapters/), [Events](https://owasp.org/events/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be become a member or consider a donation to support our ongoing work.
+
+

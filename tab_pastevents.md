@@ -16,8 +16,12 @@ An overview of our past Frankfurt Chapter & Stammtisch events starting in 2011 -
 
 ## 2024
 
+### **65. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/299501950/) | 24.04.2024, 18:00h CEST**
+* Talk: **Igor Podebrad - Data Centricity for Cloud and Application Security** [SLIDES](assets/slides/65_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Location: In-Person - codecentric AG, Lise-Meitner-Straße 4
+
 ### **64. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/296455863/) | 28.02.2024, 18:00h CET**
-* Talk: ** Esra Yildiz - SecOps Evolution: Navigating Security Risks and Operational Changes in the Era of Cloud** [SLIDES](assets/slides/64_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Talk: **Esra Yildiz - SecOps Evolution: Navigating Security Risks and Operational Changes in the Era of Cloud** [SLIDES](assets/slides/64_OWASP_Frankfurt_Stammtisch_1.pdf)
 * Talk: **Alexander Steinbrecher - ChatGPT as a CoPilot in Security Operations** [SLIDES](assets/slides/64_OWASP_Frankfurt_Stammtisch_2.pdf)
 * Location: In-Person - DZ BANK AG, Platz d. Republik
 

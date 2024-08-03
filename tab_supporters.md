@@ -18,6 +18,8 @@ The following organizations have generously provided us with the location, food 
 | Meetup #65      | [<img src="./assets/codecentric.png" alt="codecentric AG" style="width:200px; height:auto;">](https://www.codecentric.de/) |
 | Meetup #66      | [<img src="./assets/Logo_CHECK24.png" alt="Check24" style="width:200px; height:auto;">](https://www.check24.de/)     |
 
+In the past, other companies have made the Chapter meetings possible:
+
 {% include supporters.md data=site.data.ow_attributions %}
 
 

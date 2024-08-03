@@ -28,7 +28,7 @@ Feel free to refer colleagues or acquaintances to our website or individual meet
 
 ### Upcoming events
 
-All our events are announced through our [OWASP Frankfurt Chapter Meetup Group](https://www.meetup.com/OWASP-Frankfurt). Stay informed about upcoming chapter events by joining our **Meetup group** or checking out the [Upcoming Events](https://owasp.org/www-chapter-frankfurt#div-nextevent) page.
+Stay informed about our events by joining the [OWASP Frankfurt Chapter Meetup Group](https://www.meetup.com/OWASP-Frankfurt) or visiting our [Upcoming Events](https://owasp.org/www-chapter-frankfurt#div-nextevent) page. Don’t forget to follow us on [LinkedIn](https://www.linkedin.com/company/owasp-frankfurt) for the latest updates and announcements.
 
 
 ### Agenda
@@ -61,6 +61,6 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](https://owasp.org/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button.
 
-Everyone is welcome and encouraged to participate in our [Projects(https://owasp.org/projects/)], [Local Chapters](https://owasp.org/chapters/), [Events](https://owasp.org/events/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be become a member or consider a donation to support our ongoing work.
+Everyone is welcome and encouraged to participate in our [Projects](https://owasp.org/projects/), [Local Chapters](https://owasp.org/chapters/), [Events](https://owasp.org/events/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be become a member or consider a donation to support our ongoing work.
 
 

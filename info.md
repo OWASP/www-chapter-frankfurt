@@ -1,3 +1,5 @@
+![OWASP Frankfurt Logo](./assets/OWASP_Frankfurt_Logo.png)
+
 ### General Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Join OWASP Germany Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/germany-chapter)
@@ -7,7 +9,8 @@
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
 ### Social Links
-* [Meetup.com](https://www.meetup.com/OWASP-Frankfurt/)
+* [Meetup](https://www.meetup.com/OWASP-Frankfurt/)
+* [LinkedIn](https://www.linkedin.com/company/owasp-frankfurt/)
 * [YouTube](https://www.youtube.com/channel/UCcSCpYuuGeEIn70KQCF-4gQ)
 
 ### Code Repository

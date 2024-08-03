@@ -8,9 +8,15 @@ tags: frankfurt
 ---
 The [OWASP Donations Policy](https://owasp.org/www-policy/operational/donations) states that we as the OWASP Foundation are very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters.
 
+## 2024 Meeting Supporters
+
+The following organizations have generously provided us with the location, food and drinks for the OWASP Frankfurt Chapter meetings in 2024:
+
 {% include supporters.md data=site.data.ow_attributions %}
 
----
+<img src="./assets/DZBANK_Logo_oC_pos_RGB.png" alt="DZ Bank" style="width:200px; height:auto;">
+<img src="./assets/codecentric.png" alt="DZ Bank" style="width:200px; height:auto;">
+<img src="./assets/Logo_CHECK24.png" alt="DZ Bank" style="width:200px; height:auto;">
 
 ## How to become a Sponsor?
 

@@ -14,9 +14,9 @@ The following organizations have generously provided us with the location, food 
 
 {% include supporters.md data=site.data.ow_attributions %}
 
-<img src="./assets/DZBANK_Logo_oC_pos_RGB.png" alt="DZ Bank" style="width:200px; height:auto;">
-<img src="./assets/codecentric.png" alt="DZ Bank" style="width:200px; height:auto;">
-<img src="./assets/Logo_CHECK24.png" alt="DZ Bank" style="width:200px; height:auto;">
+<!--<img src="./assets/DZBANK_Logo_oC_pos_RGB.png" alt="DZ Bank" style="width:200px; height:auto;">
+<img src="./assets/codecentric.png" alt="Codecentric" style="width:200px; height:auto;">
+<img src="./assets/Logo_CHECK24.png" alt="Check24" style="width:200px; height:auto;"> -->
 
 ## How to become a Sponsor?
 

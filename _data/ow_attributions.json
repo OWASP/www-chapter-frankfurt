@@ -1,1 +1,17 @@
-["DZ Bank", "codecentric AG", "Check24"]
+[
+    {
+      "name": "DZ Bank",
+      "image": "./assets/DZBANK_Logo_oC_pos_RGB.png",
+      "url": "https://www.dzbank.de/"
+    },
+    {
+      "name": "codecentric AG",
+      "image": "./assets/codecentric.png",
+      "url": "https://www.codecentric.de/"
+    },
+    {
+      "name": "Check24",
+      "image": "./assets/Logo_CHECK24.png",
+      "url": "https://www.check24.de/"
+    }
+]

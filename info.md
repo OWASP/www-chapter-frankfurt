@@ -1,3 +1,5 @@
+![OWASP Frankfurt Logo](./assets/OWASP_Frankfurt_Logo.png)
+
 ### General Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Join OWASP Germany Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/germany-chapter)

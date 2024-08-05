@@ -1,4 +1,4 @@
-![OWASP Frankfurt Logo](./assets/OWASP_Frankfurt_Logo.png)
+<img src="./assets/OWASP_Frankfurt_Logo.png" alt="OWASP Frankfurt Logo" style="max-width:70%; height:auto;">
 
 ### General Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)

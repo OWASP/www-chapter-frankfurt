@@ -12,11 +12,16 @@ The [OWASP Donations Policy](https://owasp.org/www-policy/operational/donations)
 
 The following organizations have generously provided us with the location, food and drinks for the OWASP Frankfurt Chapter meetings in 2024:
 
+| Meetup #        | Host Company                                 |
+|-----------------|----------------------------------------------|
+| Meetup #64      | [<img src="./assets/DZBANK_Logo_oC_pos_RGB.png" alt="DZ Bank" style="width:200px; height:auto;">](https://www.dzbank.de/)      |
+| Meetup #65      | [<img src="./assets/codecentric.png" alt="codecentric AG" style="width:200px; height:auto;">](https://www.codecentric.de/) |
+| Meetup #66      | [<img src="./assets/Logo_CHECK24.png" alt="Check24" style="width:200px; height:auto;">](https://www.check24.de/)     |
+
+In the past, other companies have made the Chapter meetings possible:
+
 {% include supporters.md data=site.data.ow_attributions %}
 
-<img src="./assets/DZBANK_Logo_oC_pos_RGB.png" alt="DZ Bank" style="width:200px; height:auto;">
-<img src="./assets/codecentric.png" alt="DZ Bank" style="width:200px; height:auto;">
-<img src="./assets/Logo_CHECK24.png" alt="DZ Bank" style="width:200px; height:auto;">
 
 ## How to become a Sponsor?
 

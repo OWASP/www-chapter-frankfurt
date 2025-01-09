@@ -16,6 +16,24 @@ An overview of our past Frankfurt Chapter & Stammtisch events starting in 2011 -
 
 ## 2024
 
+### **69. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/303263383/) | 27.11.2024, 18:00h CEST**
+* Talk: **Timo Pagel - OWASP DSOMM Project** 
+* Talk: **Jonathan Stross & Waseem Ajrab - OWASP CBAS Project**
+* Location: In-Person - CHECK24 Frankfurt, Speicherstraße 55
+
+### **68. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/303263342/) | 10.10.2024, 18:00h CEST**
+* Talk: **Jeff Williams - OWASP and the Evolution of AppSec** 
+* Talk: **Kevin Wennemuth - Stories from the Dark Side** [SLIDES](assets/slides/68_OWASP_Frankfurt_Chapter_Meeting_2.pdf)
+* Location: In-Person - codecentric AG, Lise-Meitner-Straße 4
+
+### **67. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/302364452) | 26.09.2024, 18:00h CEST**
+* CISO roundtable **"The CISO Playbook: Leading Application Security in a Digital Age"** with
+   - Sheetal Joseph - recently serving as the Director of Cybersecurity at Isar Aerospace
+   - Dr. Tim Sattler - CISO at Jungheinrich AG
+   - Scott T. Nichols - Global Product Security Leader Danaher Corporation
+   - Irfaan Santoe - Global Head of Application Security Wolters Kluwer
+* Location: In-Person - IBM Tower One, Brüsseler Straße 1-3
+
 ### **66. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/300654912/) | 31.07.2024, 18:00h CEST**
 * Talk: **Dominik Sowinski - Security at Scale - Mastering Cloud Security in the Cyberwar Era** [SLIDES](assets/slides/66_OWASP_Frankfurt_Chapter_Meeting_1.pdf)
 * Talk: **Vinit - Let's talk vulnerabilities** [SLIDES](assets/slides/66_OWASP_Frankfurt_Chapter_Meeting_2.pdf)

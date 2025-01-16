@@ -17,8 +17,8 @@ An overview of our past Frankfurt Chapter & Stammtisch events starting in 2011 -
 ## 2024
 
 ### **69. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/303263383/) | 27.11.2024, 18:00h CEST**
-* Talk: **Timo Pagel - OWASP DSOMM Project** 
-* Talk: **Jonathan Stross & Waseem Ajrab - OWASP CBAS Project**
+* Talk: **Timo Pagel - OWASP DSOMM Project** [SLIDES](assets/slides/69_OWASP_Frankfurt_Chapter_Meeting_1.pdf)
+* Talk: **Jonathan Stross & Waseem Ajrab - OWASP CBAS Project** [SLIDES](assets/slides/69_OWASP_Frankfurt_Chapter_Meeting_2.pdf)
 * Location: In-Person - CHECK24 Frankfurt, Speicherstraße 55
 
 ### **68. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/303263342/) | 10.10.2024, 18:00h CEST**

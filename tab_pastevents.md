@@ -14,6 +14,18 @@ level: 2
 
 An overview of our past Frankfurt Chapter & Stammtisch events starting in 2011 - present.
 
+## 2025
+
+### **71. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/306217609/) | 27.11.2024, 18:00h CEST**
+* Talk: **Sara Rahimi - AI and Machine Learning im Cybersecurity: Weapon, shield, or both?** [SLIDES](assets/slides/71_OWASP_Frankfurt_Chapter_Meeting_1.pdf)
+* Talk: **Dr. Gulnara Hein - Web 3.0 security: same fundamentals, higher stakes** *Slides will follow soon*
+* Location: In-Person - Arctic Wolf, Friedrich-Ebert-Anlage 49
+
+### **70. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/305522192/) | 27.11.2024, 18:00h CEST**
+* Talk: **Olga Stepanova and Dirk Koch - Rechtssicher durch den Cybervorfall** [SLIDES](assets/slides/70_OWASP_Frankfurt_Chapter_Meeting_1.pdf)
+* Talk: **Leon Holub - Regulatory Affairs for Hackers** *Slides will follow soon*
+* Location: In-Person - CHECK24 Frankfurt, Speicherstraße 55
+
 ## 2024
 
 ### **69. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/303263383/) | 27.11.2024, 18:00h CEST**

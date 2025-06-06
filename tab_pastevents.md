@@ -23,7 +23,7 @@ An overview of our past Frankfurt Chapter & Stammtisch events starting in 2011 -
 
 ### **70. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/305522192/) | 27.11.2024, 18:00h CEST**
 * Talk: **Olga Stepanova and Dirk Koch - Rechtssicher durch den Cybervorfall** [SLIDES](assets/slides/70_OWASP_Frankfurt_Chapter_Meeting_1.pdf)
-* Talk: **Leon Holub - Regulatory Affairs for Hackers** *Slides will follow soon*
+* Talk: **Leon Holub - Regulatory Affairs for Hackers** [SLIDES](assets/slides/70_OWASP_Frankfurt_Chapter_Meeting_2.pdf)
 * Location: In-Person - CHECK24 Frankfurt, Speicherstraße 55
 
 ## 2024

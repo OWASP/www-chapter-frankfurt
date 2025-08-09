@@ -16,6 +16,11 @@ An overview of our past Frankfurt Chapter & Stammtisch events starting in 2011 -
 
 ## 2025
 
+### **72. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/308736460/) | 31.07.2025, 18:00h CEST**
+* Talk: **Alexander Steinbrecher and Patrick Eisenschmidt - Red vs. Blue: In-Depth Analysis of the CyberAv3ngers APT Campaign Against Critical Infrastructure** [SLIDES](assets/slides/72_OWASP_Frankfurt_Chapter_Meeting_1.pdf)
+* Talk: **vin01 - Let's talk vulnerabilities in plain sight** [SLIDES](assets/slides/72_OWASP_Frankfurt_Chapter_Meeting_2.pdf)
+* Location: In-Person - codecentric AG, Lise-Meitner-Straße 4
+
 ### **71. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/306217609/) | 27.11.2024, 18:00h CEST**
 * Talk: **Sara Rahimi - AI and Machine Learning im Cybersecurity: Weapon, shield, or both?** [SLIDES](assets/slides/71_OWASP_Frankfurt_Chapter_Meeting_1.pdf)
 * Talk: **Dr. Gulnara Hein - Web 3.0 security: same fundamentals, higher stakes** [SLIDES](assets/slides/71_OWASP_Frankfurt_Chapter_Meeting_2.pdf)

@@ -21,12 +21,12 @@ An overview of our past Frankfurt Chapter & Stammtisch events starting in 2011 -
 * Talk: **vin01 - Let's talk vulnerabilities in plain sight** [SLIDES](assets/slides/72_OWASP_Frankfurt_Chapter_Meeting_2.pdf)
 * Location: In-Person - codecentric AG, Lise-Meitner-Straße 4
 
-### **71. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/306217609/) | 27.11.2024, 18:00h CEST**
+### **71. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/306217609/) | 20.03.2025, 18:00h CEST**
 * Talk: **Sara Rahimi - AI and Machine Learning im Cybersecurity: Weapon, shield, or both?** [SLIDES](assets/slides/71_OWASP_Frankfurt_Chapter_Meeting_1.pdf)
 * Talk: **Dr. Gulnara Hein - Web 3.0 security: same fundamentals, higher stakes** [SLIDES](assets/slides/71_OWASP_Frankfurt_Chapter_Meeting_2.pdf)
 * Location: In-Person - Arctic Wolf, Friedrich-Ebert-Anlage 49
 
-### **70. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/305522192/) | 27.11.2024, 18:00h CEST**
+### **70. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/305522192/) | 26.02.2025, 18:00h CEST**
 * Talk: **Olga Stepanova and Dirk Koch - Rechtssicher durch den Cybervorfall** [SLIDES](assets/slides/70_OWASP_Frankfurt_Chapter_Meeting_1.pdf)
 * Talk: **Leon Holub - Regulatory Affairs for Hackers** [SLIDES](assets/slides/70_OWASP_Frankfurt_Chapter_Meeting_2.pdf)
 * Location: In-Person - CHECK24 Frankfurt, Speicherstraße 55

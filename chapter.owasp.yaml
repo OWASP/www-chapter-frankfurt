@@ -1,0 +1,35 @@
+community:
+  - name: chapter-frankfurt
+    platform: slack
+    url: https://owasp.slack.com/archives/CEA28SCH2
+    description: OWASP Frankfurt Chapter
+currency: EUR
+leaders:
+  - name: Daniel Gora
+    email: danielgora@owasp.org
+    github: dansecops
+  - name: Jasmin Mair
+    email: jasmin.mair@owasp.org
+    github: jasminmair
+  - name: Jonas Becker
+    email: jonas.becker@owasp.org
+    github: pignicorn
+location:
+  country: Germany
+  country_code: DE
+  region: Hessen
+  city: Frankfurt am Main
+  postal_code: '60325'
+  latitude: 50.09730505
+  longitude: 8.587923772688573
+meetup_group: OWASP-Frankfurt
+name: OWASP Frankfurt
+repositories:
+  - name: www-chapter-frankfurt
+    url: https://github.com/OWASP/www-chapter-frankfurt
+    description: OWASP Foundation Web Repository
+tags:
+  - frankfurt
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-frankfurt

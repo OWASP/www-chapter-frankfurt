@@ -14,7 +14,27 @@ level: 2
 
 An overview of our past Frankfurt Chapter & Stammtisch events starting in 2011 - present.
 
+## 2026
+
+### **76. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/314085579/) | 22.04.2026, 18:00h CEST**
+* Workshop: **Capture the Flag (CTF) Edition**
+* Location: In-Person - usd AG, Frankfurter Str. 233/Haus c1, Neu-Isenburg
+
+### **75. [OWASP Frankfurt](https://www.linkedin.com/events/7417914972313190400/) | 25.02.2026, 18:00h CET**
+* Talk: **Shannon C. Ryan - From Code to Leadership: Navigating the Tech Landscape as a Woman**
+* Talk: **Christopher Lutat - Preemptive Web App & API Security Using Contextual Machine Learning Technology with open-appsec WAF**
+* Location: In-Person - codecentric AG, Lise-Meitner-Straße 4
+
 ## 2025
+
+### **74. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/311899894/) | 03.12.2025, 18:00h CET**
+* Talk: **Alexander Schwartz - Security Diaries of an Open Source IAM**
+* Talk: **Esra Yildiz - Security and GenAI: Real Risks, Real Controls**
+* Location: In-Person - Microsoft, Friedrich-Ebert-Anlage 49
+
+### **73. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/309088867/) | 24.09.2025, 18:00h CEST**
+* Workshop: **Javan Rasokat - Hands-On OWASP Workshop**
+* Location: In-Person - usd AG, Frankfurter Str. 233/Haus c1, Neu-Isenburg
 
 ### **72. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/308736460/) | 31.07.2025, 18:00h CEST**
 * Talk: **Alexander Steinbrecher and Patrick Eisenschmidt - Red vs. Blue: In-Depth Analysis of the CyberAv3ngers APT Campaign Against Critical Infrastructure** [SLIDES](assets/slides/72_OWASP_Frankfurt_Chapter_Meeting_1.pdf)

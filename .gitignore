@@ -8,3 +8,6 @@ env
 *.DS_Store
 .idea/
 _site/
+
+# Office working files - schedules hold speaker contact details, never commit
+*.xlsx

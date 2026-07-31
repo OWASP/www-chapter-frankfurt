@@ -49,6 +49,10 @@ We welcome speakers of all levels! You don't need to be a talk pro or seasoned p
 
 > Please note that vendor pitches are not allowed, so please adhere to the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and avoid marketing stunts. Also please ensure to remove your company logos from all but one "marketing" slide.
 
+### Interested in supporting us?
+
+Our meetings run because companies provide the venue and the catering. If that is something your company would consider, have a look at our [Supporters](https://owasp.org/www-chapter-frankfurt/#div-supporters) page and get in touch. We keep sponsorship vendor neutral, so no product pitches.
+
 ## Frankfurt Chapter
 
 The OWASP Stammtisch Frankfurt was formed in 2011 by Johannes Schönborn. More than 50 speakers have sinces presented at the in-person or virtual events.

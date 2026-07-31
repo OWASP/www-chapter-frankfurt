@@ -8,24 +8,57 @@ tags: frankfurt
 ---
 The [OWASP Donations Policy](https://owasp.org/www-policy/operational/donations) states that we as the OWASP Foundation are very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters.
 
-## 2024 Meeting Supporters
+## Current supporters
 
-The following organizations have generously provided us with the location, food and drinks for the OWASP Frankfurt Chapter meetings in 2024:
+The following organizations are supporting OWASP Frankfurt Chapter meetings this year:
 
-| Meetup #        | Host Company                                 |
-|-----------------|----------------------------------------------|
-| Meetup #64      | [<img src="./assets/DZBANK_Logo_oC_pos_RGB.png" alt="DZ Bank" style="width:200px; height:auto;">](https://www.dzbank.de/)      |
-| Meetup #65      | [<img src="./assets/codecentric.png" alt="codecentric AG" style="width:200px; height:auto;">](https://www.codecentric.de/) |
-| Meetup #66      | [<img src="./assets/Logo_CHECK24.png" alt="Check24" style="width:200px; height:auto;">](https://www.check24.de/)     |
+{% include supporters.md data=site.data.current_supporters %}
 
-In the past, other companies have made the Chapter meetings possible:
+## Past supporters
+
+These organizations have provided a venue, food and drinks for our chapter meetings over the years:
 
 {% include supporters.md data=site.data.ow_attributions %}
 
+## Sponsor a chapter meeting
 
-## How to become a Sponsor?
+We are looking for companies to support our chapter meetings in Frankfurt. A supporter covers the venue and the catering, and we bring the community.
 
-OWASP is a non-profit association (in Europe, based in Belgium) that has has set up many projects, documents and tools and thus follows the mission "web security". Almost all of these visible results are based on a lot of volunteer work.
+The chapter has been running since 2011, first as a Stammtisch and as an official OWASP Chapter since 2022. We meet on the last Wednesday of the month and usually get 50 or more people through the door. They come from financial services, tech, transportation and consulting, and the room tends to hold CISOs, security engineers, developers, testers, architects and researchers, along with students. Nobody is there because they have to be.
+
+[Why sponsor OWASP Frankfurt?](https://docs.google.com/presentation/d/1gf6XxXY6AL0xoM-OICbhO45wVYgFDQtg/preview) has the full picture, including what hosting an evening actually costs.
+
+### What you get
+
+* A listing as a supporter on this page.
+* Your banners on site for the evening. Pins and giveaways are welcome.
+* A short introduction of your company to the room.
+* An optional speaker slot, as long as the talk is vendor neutral. Thought leadership or a solutions talk works, a product pitch does not.
+* About 45 minutes of open networking over food and drinks.
+
+### What we ask
+
+Keep it subtle and vendor neutral. That is what protects the chapter's credibility, and it is why people keep coming back. In practice that means one company logo slide, a topic we agree in advance, and slides the chapter leads have seen before the event. The [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) covers the rest.
+
+### How it works
+
+1. Pick a date that suits you. We meet on the last Wednesday of the month.
+2. Send us the topic and the slides ahead of the evening.
+3. Host at your own offices, or we find a venue. You cover the venue and the catering and contract with the venue directly.
+4. If it works, do it again. Other German chapters run the same way.
+
+### Interested?
+
+Let us know. Any of the chapter leads can pick it up:
+
+* [Daniel Gora](mailto:danielgora@owasp.org)
+* [Jasmin Mair](mailto:jasmin.mair@owasp.org)
+* [Jonas Becker](mailto:jonas.becker@owasp.org)
+* [Dominik Pataky](mailto:dominik.pataky@owasp.org)
+
+## Other ways to support OWASP
+
+OWASP is a non-profit association (in Europe, based in Belgium) that has set up many projects, documents and tools and thus follows the mission "web security". Almost all of these visible results are based on a lot of volunteer work.
 
 However, an association like OWASP also has expenses in order to promote projects, documents and tools and to keep them up to date. Our infrastructure like servers, accounting and our administration also need to be paid for.
 

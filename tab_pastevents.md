@@ -60,7 +60,7 @@ An overview of our past Frankfurt Chapter & Stammtisch events starting in 2011 -
 
 ### **68. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/303263342/) | 10.10.2024, 18:00h CEST**
 * Talk: **Jeff Williams - OWASP and the Evolution of AppSec** 
-* Talk: **Kevin Wennemuth - Stories from the Dark Side** [SLIDES](assets/slides/68_OWASP_Frankfurt_Chapter_Meeting_2.pdf)
+* Talk: **Kevin Wennemuth - Stories from the Dark Side** [SLIDES](https://drive.google.com/file/d/1n4hQjhGS2PRj1SOM29BPzAWvA-Fg16Aq/view?usp=sharing)
 * Location: In-Person - codecentric AG, Lise-Meitner-Straße 4
 
 ### **67. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/302364452) | 26.09.2024, 18:00h CEST**
@@ -108,7 +108,7 @@ An overview of our past Frankfurt Chapter & Stammtisch events starting in 2011 -
 * Location: In-Person - CHECK24 Frankfurt, Speicherstraße 55
 
 ### **59. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt/events/290496214/) | 22.02.2023, 18:00h CET**
-* Keynote: **Dr. Steffen Schilke - IT Grundschutz and SBOM Implementation in Multi-Country eGov/eJustice Projects** [SLIDES](assets/slides/59_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Keynote: **Dr. Steffen Schilke - IT Grundschutz and SBOM Implementation in Multi-Country eGov/eJustice Projects** [SLIDES](https://drive.google.com/file/d/14k2c-HQgkiDG_ksvJtcqg9i3XtC9xoIo/view?usp=sharing)
 * Talk: **Silvia Gutierrez Puertas - OWASP Mentoring Program** [SLIDES](assets/slides/59_OWASP_Frankfurt_Stammtisch_2.pdf)
 * Location: Virtual - OWASP Zoom
 
